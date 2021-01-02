@@ -12,7 +12,10 @@ Added an [MIT License](LICENSE)
 
 ## Configuration
 The behavior of this program is controlled by changing constants defined in the
-'%% Define values of system' section. This includes the signal parameters and the
+```MATLAB
+%% Define values of system' section.
+```
+This includes the signal parameters and the
 properties of the PSD plots.
 
 ## Contact
